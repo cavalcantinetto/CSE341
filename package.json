@@ -20,8 +20,5 @@
     "homepage": "https://github.com/cavalcantinetto/CSE341#readme",
     "dependencies": {
         "express": "^4.18.2"
-    },
-    "devDependencies": {
-        "nodemom": "^2.0.15"
     }
 }
